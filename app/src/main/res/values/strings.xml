@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bai2</string>
+    <string-array name="country">
+        <item>Viet nam</item>
+        <item>Japan</item>
+        <item>China</item>
+        <item>Malaysia</item>
+    </string-array>
+<!--    <string-array name="uni">-->
+<!--        <item>PTIT</item>-->
+<!--        <item>NEU</item>-->
+<!--        <item>FTU</item>-->
+<!--        <item>BKA</item>-->
+<!--    </string-array>-->
+</resources>
